@@ -1,0 +1,2 @@
+easting,northing,porosity,permeability,Poisson's ratio,Young's Modulus,water saturation,oil saturation,proppant weight (lbs),pump rate (cubic feet/min),time to pump stage (min),set time (min)
+72900.0,5300.0,0.07,0.017,0.311,4752763.893999999,0.08927895610164184,0.9107210438983582,720219.7900667542,269.4020144890826,35.7,63.0
